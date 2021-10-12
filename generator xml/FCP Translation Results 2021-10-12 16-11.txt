@@ -1,0 +1,52 @@
+Translation issue:
+	Synthetic Item (Black Video) not translated, Slug used as a placeholder.
+Translation issue:
+	Sequence <cena 1> at , video track 3: Effect <Graphic Parameters> on Clip <SUBTITLE CENA> not translated.
+Translation issue:
+	Sequence <clean round 6 cena> at , video track 1: Effect <Transform> on Clip <round 6 cena 1.mp4> not translated.
+Translation issue:
+	Sequence <create template subtitle> at , video track 1: Effect <Graphic Parameters> on Clip <SUBTITLE CENA> not translated.
+Translation issue:
+	Sequence <main> at , video track 2: Effect <Graphic Parameters> on Clip <3 text dinamic> not translated.
+Translation issue:
+	Sequence <main> at , video track 2: Effect <Graphic Parameters> on Clip <chaves> not translated.
+Translation issue:
+	Sequence <main> at , video track 2: Effect <Graphic Parameters> on Clip <complete> not translated.
+Translation issue:
+	Sequence <main> at , video track 2: Effect <Graphic Parameters> on Clip <tradução> not translated.
+Translation issue:
+	Sequence <main> at , video track 3: Effect <Graphic Parameters> on Clip <3 text dinamic> not translated.
+Translation issue:
+	Sequence <main> at , video track 3: Effect <Graphic Parameters> on Clip <SUBTITLE CENA> not translated.
+Translation issue:
+	Sequence <main> at , video track 3: Effect <Graphic Parameters> on Clip <chaves> not translated.
+Translation issue:
+	Sequence <main> at , video track 3: Effect <Graphic Parameters> on Clip <image show> not translated.
+Translation issue:
+	Sequence <main> at , video track 3: Effect <Graphic Parameters> on Clip <tradução> not translated.
+Translation issue:
+	Sequence <main> at , video track 4: Effect <Graphic Parameters> on Clip <3 text dinamic> not translated.
+Translation issue:
+	Sequence <main> at , video track 4: Effect <Graphic Parameters> on Clip <EXEMPLO MOVIE> not translated.
+Translation issue:
+	Sequence <main> at , video track 4: Effect <Graphic Parameters> on Clip <SUBTITLE CENA> not translated.
+Translation issue:
+	Sequence <main> at , video track 4: Effect <Graphic Parameters> on Clip <chaves> not translated.
+Translation issue:
+	Sequence <main> at , video track 4: Effect <Graphic Parameters> on Clip <top if> not translated.
+Translation issue:
+	Sequence <main> at , video track 4: Effect <Graphic Parameters> on Clip <tradução> not translated.
+Translation issue:
+	Sequence <main> at , video track 5: Effect <Graphic Parameters> on Clip <tradução> not translated.
+Translation issue:
+	Sequence <main> at , video track 6: Effect <Graphic Parameters> on Clip <top if> not translated.
+Translation issue:
+	Sequence <main> at , video track 7: Effect <Graphic Parameters> on Clip <top if> not translated.
+Translation issue:
+	Sequence <main> at , video track 8: Effect <Graphic Parameters> on Clip <top if> not translated.
+Translation issue:
+	Sequence <make subtitle> at , video track 3: Effect <Graphic Parameters> on Clip <SUBTITLE CENA> not translated.
+Translation issue:
+	Sequence <round 6 cena> at , video track 1: Effect <Transform> on Clip <round 6 cena 1.mp4> not translated.
+Translation issue:
+	Sequence <round 6 cena> at , video track 3: Effect <Graphic Parameters> on Clip <SUBTITLE CENA> not translated.

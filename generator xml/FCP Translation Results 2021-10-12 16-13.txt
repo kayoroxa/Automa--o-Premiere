@@ -1,0 +1,2 @@
+Translation issue:
+	Sequence <create template subtitle> at , video track 1: Effect <Graphic Parameters> on Clip <SUBTITLE CENA> not translated.

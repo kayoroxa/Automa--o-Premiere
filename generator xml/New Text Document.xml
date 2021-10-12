@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+  <sequence>
+    <duration>4917</duration>
+    <rate>
+      <timebase>25</timebase>
+      <ntsc>false</ntsc>
+    </rate>
+    <name>Pitch Perfect 3 (2017) - Toxic Fight Scene (8_10) _ Movieclips - English (auto</name>
+    <media>
+      <video>
+        <format>
+          <samplecharacteristics>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <width>1920</width>
+            <height>1080</height>
+            <anamorphic>false</anamorphic>
+            <pixelaspectratio>square</pixelaspectratio>
+            <fielddominance>none</fielddominance>
+            <colordepth>24</colordepth>
+          </samplecharacteristics>
+        </format>
+        <track>
+          <clipitem id="clipitem-0">
+            <masterclipid>masterclip-0</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>0</start>
+            <end>216</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-0">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+and things get ugly ten minutes ladies</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwb3IiOjAuMCwibUJhY2tGaWxsT3BhY2l0eSI6MC4wLCJtQmFja0ZpbGxTaXplIjowLjAsIm1CYWNrRmlsbFZpc2libGUiOmZhbHNlLCJtRGVmYXVsdFJ1biI6W10sIm1IZWlnaHQiOjAuMCwibUhpbmRpRGlnaXRzIjpmYWxzZSwibUluZGljIjpmYWxzZSwibUlzTWFzayI6ZmFsc2UsIm1Jc01hc2tJbnZlcnRlZCI6ZmFsc2UsIm1Jc1ZlcnRpY2FsVGV4dCI6ZmFsc2UsIm1MZWFkaW5nIjowLjAsIm1MaWdhdHVyZXMiOmZhbHNlLCJtTGluZUNhcFR5cGUiOjAuMCwibUxpbmVKb2luVHlwZSI6MC4wLCJtTWl0ZXJMaW1pdCI6MC4wLCJtTnVtU3Ryb2tlcyI6MS4wLCJtUlRMIjpmYWxzZSwibVNoYWRvd0FuZ2xlIjoxMzUuMCwibVNoYWRvd0JsdXIiOjQwLjAsIm1TaGFkb3dDb2xvciI6NDE0NDk1OS4wLCJtU2hhZG93T2Zmc2V0Ijo3LjAsIm1TaGFkb3dPcGFjaXR5Ijo3NS4wLCJtU2hhZG93U2l6ZSI6MC4wLCJtU2hhZG93VmlzaWJsZSI6ZmFsc2UsIm1TdHlsZVNoZWV0Ijp7Im1BZGRpdGlvbmFsU3Ryb2tlQ29sb3IiOltdLCJtQWRkaXRpb25hbFN0cm9rZVZpc2libGUiOltdLCJtQWRkaXRpb25hbFN0cm9rZVdpZHRoIjpbXSwibUJhc2VsaW5lT3B0aW9uIjp7Im1QYXJhbVZhbHVlcyI6W1swLjAsMC4wXV19LCJtQmFzZWxpbmVTaGlmdCI6eyJtUGFyYW1WYWx1ZXMiOltbMC4wLDAuMF1dfSwibUNhcHNPcHRpb24iOnsibVBhcmFtVmFsdWVzIjpbWzAuMCwwLjBdXX0sIm1GYXV4Qm9sZCI6eyJtUGFyYW1WYWx1ZXMiOltbMCxmYWxzZV1dfSwibUZhdXhJdGFsaWMiOnsibVBhcmFtVmFsdWVzIjpbWzAsZmFsc2VdXX0sIm1GaWxsQ29sb3IiOnsibVBhcmFtVmFsdWVzIjpbWzAuMCwxNjc3NzIxNS4wXV19LCJtRmlsbE92ZXJTdHJva2UiOnsibVBhcmFtVmFsdWVzIjpbWzAsdHJ1ZV1dfSwibUZpbGxWaXNpYmxlIjp7Im1QYXJhbVZhbHVlcyI6W1swLHRydWVdXX0sIm1Gb250TmFtZSI6eyJtUGFyYW1WYWx1ZXMiOltbMCwiQXJpYWxNVCJdXX0sIm1Gb250U2l6ZSI6eyJtUGFyYW1WYWx1ZXMiOltbMC4wLDYwLjBdXX0sIm1LZXJuaW5nIjp7Im1QYXJhbVZhbHVlcyI6W1swLjAsMC4wXV19LCJtU3Ryb2tlQ29sb3IiOnsibVBhcmFtVmFsdWVzIjpbWzAuMCwwLjBdXX0sIm1TdHJva2VWaXNpYmxlIjp7Im1QYXJhbVZhbHVlcyI6W1swLHRydWVdXX0sIm1TdHJva2VXaWR0aCI6eyJtUGFyYW1WYWx1ZXMiOltbMC4wLDEwLjBdXX0sIm1UZXh0IjoiXHJ0YXMgbGlnYWRvIHZlaSIsIm1UcmFja2luZyI6eyJtUGFyYW1WYWx1ZXMiOltbMC4wLDAuMF1dfSwibVRzdW1pIjp7Im1QYXJhbVZhbHVlcyI6W1swLjAsMC4wXV19LCJtVW5kZXJsaW5lIjpudWxsfSwibVRhYldpZHRoIjo0MDAuMCwibVZlcnRpY2FsQWxpZ25tZW50IjowLjAsIm1XaWR0aCI6MC4wfSwibVVzZUxlZ2FjeVRleHRCb3giOmZhbHNlLCJtVmVyc2lvbiI6MS4wfQ==</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-1">
+            <masterclipid>masterclip-1</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>120</start>
+            <end>279</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-1">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+guys you know what we should do where</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAGcAdQB5AHMAIAB5AG8AdQAgAGsAbgBvAHcAIAB3AGgAYQB0ACAAdwBlACAAcwBoAG8AdQBsAGQAIABkAG8AIAB3AGgAZQByAGUAIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-2">
+            <masterclipid>masterclip-2</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>216</start>
+            <end>356</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-2">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+did you come from what you weren't here</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAGQAaQBkACAAeQBvAHUAIABjAG8AbQBlACAAZgByAG8AbQAgAHcAaABhAHQAIAB5AG8AdQAgAHcAZQByAGUAbgAnAHQAIABoAGUAcgBlACIALAAiAG0AVAByAGEAYwBrAGkAbgBnACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFQAcwB1AG0AaQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBVAG4AZABlAHIAbABpAG4AZQAiADoAbgB1AGwAbAB9ACwAIgBtAFQAYQBiAFcAaQBkAHQAaAAiADoANAAwADAALgAwACwAIgBtAFYAZQByAHQAaQBjAGEAbABBAGwAaQBnAG4AbQBlAG4AdAAiADoAMAAuADAALAAiAG0AVwBpAGQAdABoACIAOgAwAC4AMAB9ACwAIgBtAFUAcwBlAEwAZQBnAGEAYwB5AFQAZQB4AHQAQgBvAHgAIgA6AGYAYQBsAHMAZQAsACIAbQBWAGUAcgBzAGkAbwBuACIAOgAxAC4AMAB9AA==</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-3">
+            <masterclipid>masterclip-3</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>279</start>
+            <end>633</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-3">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+before then you're the whole time I'm</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAGIAZQBmAG8AcgBlACAAdABoAGUAbgAgAHkAbwB1ACcAcgBlACAAdABoAGUAIAB3AGgAbwBsAGUAIAB0AGkAbQBlACAASQAnAG0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-4">
+            <masterclipid>masterclip-4</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>356</start>
+            <end>648</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-4">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+just small if we only have ten minutes</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAGoAdQBzAHQAIABzAG0AYQBsAGwAIABpAGYAIAB3AGUAIABvAG4AbAB5ACAAaABhAHYAZQAgAHQAZQBuACAAbQBpAG4AdQB0AGUAcwAiACwAIgBtAFQAcgBhAGMAawBpAG4AZwAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBUAHMAdQBtAGkAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVQBuAGQAZQByAGwAaQBuAGUAIgA6AG4AdQBsAGwAfQAsACIAbQBUAGEAYgBXAGkAZAB0AGgAIgA6ADQAMAAwAC4AMAAsACIAbQBWAGUAcgB0AGkAYwBhAGwAQQBsAGkAZwBuAG0AZQBuAHQAIgA6ADAALgAwACwAIgBtAFcAaQBkAHQAaAAiADoAMAAuADAAfQAsACIAbQBVAHMAZQBMAGUAZwBhAGMAeQBUAGUAeAB0AEIAbwB4ACIAOgBmAGEAbABzAGUALAAiAG0AVgBlAHIAcwBpAG8AbgAiADoAMQAuADAAfQA=</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-5">
+            <masterclipid>masterclip-5</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>633</start>
+            <end>708</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-5">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+left</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAGwAZQBmAHQAIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-6">
+            <masterclipid>masterclip-6</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>648</start>
+            <end>799</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-6">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+I say we spend it doing something we</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAEkAIABzAGEAeQAgAHcAZQAgAHMAcABlAG4AZAAgAGkAdAAgAGQAbwBpAG4AZwAgAHMAbwBtAGUAdABoAGkAbgBnACAAdwBlACIALAAiAG0AVAByAGEAYwBrAGkAbgBnACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFQAcwB1AG0AaQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBVAG4AZABlAHIAbABpAG4AZQAiADoAbgB1AGwAbAB9ACwAIgBtAFQAYQBiAFcAaQBkAHQAaAAiADoANAAwADAALgAwACwAIgBtAFYAZQByAHQAaQBjAGEAbABBAGwAaQBnAG4AbQBlAG4AdAAiADoAMAAuADAALAAiAG0AVwBpAGQAdABoACIAOgAwAC4AMAB9ACwAIgBtAFUAcwBlAEwAZQBnAGEAYwB5AFQAZQB4AHQAQgBvAHgAIgA6AGYAYQBsAHMAZQAsACIAbQBWAGUAcgBzAGkAbwBuACIAOgAxAC4AMAB9AA==</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-7">
+            <masterclipid>masterclip-7</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>708</start>
+            <end>1217</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-7">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+love let's go out like fellas and and</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAGwAbwB2AGUAIABsAGUAdAAnAHMAIABnAG8AIABvAHUAdAAgAGwAaQBrAGUAIABmAGUAbABsAGEAcwAgAGEAbgBkACAAYQBuAGQAIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-8">
+            <masterclipid>masterclip-8</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>799</start>
+            <end>1275</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-8">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+sing one more song we really think</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAHMAaQBuAGcAIABvAG4AZQAgAG0AbwByAGUAIABzAG8AbgBnACAAdwBlACAAcgBlAGEAbABsAHkAIAB0AGgAaQBuAGsAIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-9">
+            <masterclipid>masterclip-9</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>1217</start>
+            <end>1330</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-9">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+you'll like it you want to win at a make</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAHkAbwB1ACcAbABsACAAbABpAGsAZQAgAGkAdAAgAHkAbwB1ACAAdwBhAG4AdAAgAHQAbwAgAHcAaQBuACAAYQB0ACAAYQAgAG0AYQBrAGUAIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-10">
+            <masterclipid>masterclip-10</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>1275</start>
+            <end>1417</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-10">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+bet knock yourself out</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAGIAZQB0ACAAawBuAG8AYwBrACAAeQBvAHUAcgBzAGUAbABmACAAbwB1AHQAIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-11">
+            <masterclipid>masterclip-11</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>1330</start>
+            <end>1417</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-11">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+nine minutes</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAG4AaQBuAGUAIABtAGkAbgB1AHQAZQBzACIALAAiAG0AVAByAGEAYwBrAGkAbgBnACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFQAcwB1AG0AaQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBVAG4AZABlAHIAbABpAG4AZQAiADoAbgB1AGwAbAB9ACwAIgBtAFQAYQBiAFcAaQBkAHQAaAAiADoANAAwADAALgAwACwAIgBtAFYAZQByAHQAaQBjAGEAbABBAGwAaQBnAG4AbQBlAG4AdAAiADoAMAAuADAALAAiAG0AVwBpAGQAdABoACIAOgAwAC4AMAB9ACwAIgBtAFUAcwBlAEwAZQBnAGEAYwB5AFQAZQB4AHQAQgBvAHgAIgA6AGYAYQBsAHMAZQAsACIAbQBWAGUAcgBzAGkAbwBuACIAOgAxAC4AMAB9AA==</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-12">
+            <masterclipid>masterclip-12</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>1634</start>
+            <end>1712</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-12">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-13">
+            <masterclipid>masterclip-13</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>1773</start>
+            <end>2016</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-13">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-14">
+            <masterclipid>masterclip-14</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>2249</start>
+            <end>2829</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-14">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-15">
+            <masterclipid>masterclip-15</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>2627</start>
+            <end>2829</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-15">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+you know that's exactly what you know</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAHkAbwB1ACAAawBuAG8AdwAgAHQAaABhAHQAJwBzACAAZQB4AGEAYwB0AGwAeQAgAHcAaABhAHQAIAB5AG8AdQAgAGsAbgBvAHcAIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-16">
+            <masterclipid>masterclip-16</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>2865</start>
+            <end>2943</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-16">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-17">
+            <masterclipid>masterclip-17</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>2944</start>
+            <end>3044</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-17">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+you act like she's human</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAHkAbwB1ACAAYQBjAHQAIABsAGkAawBlACAAcwBoAGUAJwBzACAAaAB1AG0AYQBuACIALAAiAG0AVAByAGEAYwBrAGkAbgBnACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFQAcwB1AG0AaQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBVAG4AZABlAHIAbABpAG4AZQAiADoAbgB1AGwAbAB9ACwAIgBtAFQAYQBiAFcAaQBkAHQAaAAiADoANAAwADAALgAwACwAIgBtAFYAZQByAHQAaQBjAGEAbABBAGwAaQBnAG4AbQBlAG4AdAAiADoAMAAuADAALAAiAG0AVwBpAGQAdABoACIAOgAwAC4AMAB9ACwAIgBtAFUAcwBlAEwAZQBnAGEAYwB5AFQAZQB4AHQAQgBvAHgAIgA6AGYAYQBsAHMAZQAsACIAbQBWAGUAcgBzAGkAbwBuACIAOgAxAC4AMAB9AA==</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-18">
+            <masterclipid>masterclip-18</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>3141</start>
+            <end>3285</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-18">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-19">
+            <masterclipid>masterclip-19</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>3381</start>
+            <end>3458</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-19">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-20">
+            <masterclipid>masterclip-20</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>3710</start>
+            <end>3786</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-20">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-21">
+            <masterclipid>masterclip-21</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>4059</start>
+            <end>4138</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-21">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+          <clipitem id="clipitem-22">
+            <masterclipid>masterclip-22</masterclipid>
+            <name>Graphic</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>25</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <start>4321</start>
+            <end>4917</end>
+            <alphatype>none</alphatype>
+            <pixelaspectratio>square</pixelaspectratio>
+            <anamorphic>false</anamorphic>
+            <file id="file-22">
+              <name>Graphic</name>
+              <mediaSource>GraphicAndType</mediaSource>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <anamorphic>false</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <filter>
+              <effect>
+                <name>
+[Music]</name>
+                <effectid>GraphicAndType</effectid>
+                <effectcategory>graphic</effectcategory>
+                <effecttype>filter</effecttype>
+                <pproBypass>false</pproBypass>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>1</parameterid>
+                  <name>Source Text</name>
+                  <value>Dw8AAAAAAAB7ACIAbQBTAGgAYQBkAG8AdwBGAG8AbgB0AE0AYQBwAEgAYQBzAGgAIgA6AG4AdQBsAGwALAAiAG0AVABlAHgAdABQAGEAcgBhAG0AIgA6AHsAIgBtAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAyAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwAQwBvAGwAbwByACIAOgAwAC4AMAAsACIAbQBCAGEAYwBrAEYAaQBsAGwATwBwAGEAYwBpAHQAeQAiADoAMAAuADAALAAiAG0AQgBhAGMAawBGAGkAbABsAFMAaQB6AGUAIgA6ADAALgAwACwAIgBtAEIAYQBjAGsARgBpAGwAbABWAGkAcwBpAGIAbABlACIAOgBmAGEAbABzAGUALAAiAG0ARABlAGYAYQB1AGwAdABSAHUAbgAiADoAWwBdACwAIgBtAEgAZQBpAGcAaAB0ACIAOgAwAC4AMAAsACIAbQBIAGkAbgBkAGkARABpAGcAaQB0AHMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAG4AZABpAGMAIgA6AGYAYQBsAHMAZQAsACIAbQBJAHMATQBhAHMAawAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBNAGEAcwBrAEkAbgB2AGUAcgB0AGUAZAAiADoAZgBhAGwAcwBlACwAIgBtAEkAcwBWAGUAcgB0AGkAYwBhAGwAVABlAHgAdAAiADoAZgBhAGwAcwBlACwAIgBtAEwAZQBhAGQAaQBuAGcAIgA6ADAALgAwACwAIgBtAEwAaQBnAGEAdAB1AHIAZQBzACIAOgBmAGEAbABzAGUALAAiAG0ATABpAG4AZQBDAGEAcABUAHkAcABlACIAOgAwAC4AMAAsACIAbQBMAGkAbgBlAEoAbwBpAG4AVAB5AHAAZQAiADoAMAAuADAALAAiAG0ATQBpAHQAZQByAEwAaQBtAGkAdAAiADoAMAAuADAALAAiAG0ATgB1AG0AUwB0AHIAbwBrAGUAcwAiADoAMQAuADAALAAiAG0AUgBUAEwAIgA6AGYAYQBsAHMAZQAsACIAbQBTAGgAYQBkAG8AdwBBAG4AZwBsAGUAIgA6ADEAMwA1AC4AMAAsACIAbQBTAGgAYQBkAG8AdwBCAGwAdQByACIAOgA0ADAALgAwACwAIgBtAFMAaABhAGQAbwB3AEMAbwBsAG8AcgAiADoANAAxADQANAA5ADUAOQAuADAALAAiAG0AUwBoAGEAZABvAHcATwBmAGYAcwBlAHQAIgA6ADcALgAwACwAIgBtAFMAaABhAGQAbwB3AE8AcABhAGMAaQB0AHkAIgA6ADcANQAuADAALAAiAG0AUwBoAGEAZABvAHcAUwBpAHoAZQAiADoAMAAuADAALAAiAG0AUwBoAGEAZABvAHcAVgBpAHMAaQBiAGwAZQAiADoAZgBhAGwAcwBlACwAIgBtAFMAdAB5AGwAZQBTAGgAZQBlAHQAIgA6AHsAIgBtAEEAZABkAGkAdABpAG8AbgBhAGwAUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBWAGkAcwBpAGIAbABlACIAOgBbAF0ALAAiAG0AQQBkAGQAaQB0AGkAbwBuAGEAbABTAHQAcgBvAGsAZQBXAGkAZAB0AGgAIgA6AFsAXQAsACIAbQBCAGEAcwBlAGwAaQBuAGUATwBwAHQAaQBvAG4AIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AQgBhAHMAZQBsAGkAbgBlAFMAaABpAGYAdAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAwAC4AMABdAF0AfQAsACIAbQBDAGEAcABzAE8AcAB0AGkAbwBuACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAEYAYQB1AHgAQgBvAGwAZAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsAGYAYQBsAHMAZQBdAF0AfQAsACIAbQBGAGEAdQB4AEkAdABhAGwAaQBjACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAZgBhAGwAcwBlAF0AXQB9ACwAIgBtAEYAaQBsAGwAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADEANgA3ADcANwAyADEANQAuADAAXQBdAH0ALAAiAG0ARgBpAGwAbABPAHYAZQByAFMAdAByAG8AawBlACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwACwAdAByAHUAZQBdAF0AfQAsACIAbQBGAGkAbABsAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAEYAbwBuAHQATgBhAG0AZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAsACIAQQByAGkAYQBsAE0AVAAiAF0AXQB9ACwAIgBtAEYAbwBuAHQAUwBpAHoAZQAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAA2ADAALgAwAF0AXQB9ACwAIgBtAEsAZQByAG4AaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AUwB0AHIAbwBrAGUAQwBvAGwAbwByACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFYAaQBzAGkAYgBsAGUAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALAB0AHIAdQBlAF0AXQB9ACwAIgBtAFMAdAByAG8AawBlAFcAaQBkAHQAaAAiADoAewAiAG0AUABhAHIAYQBtAFYAYQBsAHUAZQBzACIAOgBbAFsAMAAuADAALAAxADAALgAwAF0AXQB9ACwAIgBtAFQAZQB4AHQAIgA6ACIAXAByAFsATQB1AHMAaQBjAF0AIgAsACIAbQBUAHIAYQBjAGsAaQBuAGcAIgA6AHsAIgBtAFAAYQByAGEAbQBWAGEAbAB1AGUAcwAiADoAWwBbADAALgAwACwAMAAuADAAXQBdAH0ALAAiAG0AVABzAHUAbQBpACIAOgB7ACIAbQBQAGEAcgBhAG0AVgBhAGwAdQBlAHMAIgA6AFsAWwAwAC4AMAAsADAALgAwAF0AXQB9ACwAIgBtAFUAbgBkAGUAcgBsAGkAbgBlACIAOgBuAHUAbABsAH0ALAAiAG0AVABhAGIAVwBpAGQAdABoACIAOgA0ADAAMAAuADAALAAiAG0AVgBlAHIAdABpAGMAYQBsAEEAbABpAGcAbgBtAGUAbgB0ACIAOgAwAC4AMAAsACIAbQBXAGkAZAB0AGgAIgA6ADAALgAwAH0ALAAiAG0AVQBzAGUATABlAGcAYQBjAHkAVABlAHgAdABCAG8AeAAiADoAZgBhAGwAcwBlACwAIgBtAFYAZQByAHMAaQBvAG4AIgA6ADEALgAwAH0A</value>
+                </parameter>
+                <parameter authoringApp="PremierePro">
+                  <parameterid>3</parameterid>
+                  <name>Position</name>
+                  <IsTimeVarying>false</IsTimeVarying>
+                  <value>0,0.5:0.8240740740740741,0,0,0,0,0,0,0,0,0,0,0,0</value>
+                </parameter>
+              </effect>
+            </filter>
+          </clipitem>
+        </track>
+      </video>
+    </media>
+  </sequence>
+  <marker></marker>
+</xmeml>
