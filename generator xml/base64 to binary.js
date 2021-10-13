@@ -25,5 +25,5 @@ function generate(text, ptOrEn) {
   return base64.encode(replaced)
 }
 module.exports = generate
-// generate('oi é', 'en')
+generate('oi é', 'en')
 // console.log(generate('oi é', 'en'))
