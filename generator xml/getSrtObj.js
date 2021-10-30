@@ -22,8 +22,8 @@ function sanitizerSrtObj(srtObj) {
   }))
   const removeEmptyTextChildren = replaceTxt.filter(v => v.text.length > 0)
   const indexFixed = fixId(removeEmptyTextChildren)
-
-  return indexFixed
+  const removed1Caracter = indexFixed.filter(v => v.text.trim().length > 1)
+  return removed1Caracter
 }
 
 function splitSentenceByWord(sentence) {
@@ -125,8 +125,9 @@ const defaultOptions = {
 
 function main(srtFilePath, options = defaultOptions) {
   options = { ...defaultOptions, ...options }
+  const showMilliseconds = options.ms || options.sec || options.frame
   let srt = fs.readFileSync(joinPath(__dirname, srtFilePath), 'utf8')
-  let srtObj = parser.fromSrt(srt, options.ms || options.sec)
+  let srtObj = parser.fromSrt(srt, showMilliseconds)
 
   if (options.sanitizer) srtObj = sanitizerSrtObj(srtObj)
   if (options.splitTwoLines) srtObj = splitTwoLinesSrt(srtObj)
@@ -134,8 +135,21 @@ function main(srtFilePath, options = defaultOptions) {
   if (options.sec) {
     srtObj = srtObj.map(v => ({
       ...v,
-      startTime: v.startTime / 30,
-      endTime: v.endTime / 30,
+      startTime: v.startTime / 1000,
+      endTime: v.endTime / 1000,
+    }))
+  } else if (options.frame) {
+    srtObj = srtObj.map(v => ({
+      ...v,
+      startTime: (v.startTime / 1000) * 29.9,
+      endTime: (v.endTime / 1000) * 29.9,
+    }))
+  }
+  if (options.round) {
+    srtObj = srtObj.map(v => ({
+      ...v,
+      startTime: Math.round(v.startTime),
+      endTime: Math.round(v.endTime),
     }))
   }
   return fixId(srtObj)
