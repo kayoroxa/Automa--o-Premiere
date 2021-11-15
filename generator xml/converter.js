@@ -3,6 +3,7 @@ const fs = require('fs')
 const joinPath = require('path').join
 const generate = require('./base64 to binary')
 const objectPath = require('object-path')
+const parser = require('subtitles-parser')
 // console.log(
 //   result1.xmeml.sequence.media.video.track[0].clipitem[0].filter[0].effect
 //     .parameter[0].value._text
@@ -75,9 +76,12 @@ async function main() {
   const srtObj = await getSrtObj(`./${pathSrt}`, {
     startInZero: true,
     // sec: true,
-    frame: true,
-    round: true,
+    // frame: true,
+    // round: true,
+    startInSec: 8,
   })
+
+  fs.writeFileSync(joinPath(__dirname, './movie.srt'), parser.toSrt(srtObj))
 
   console.log(srtObj.map(v => v.text).join('\n'))
 
