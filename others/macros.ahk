@@ -15,8 +15,9 @@ mostrarMeuNome(nome) {
 
 ; ^o::
 ;   Send, teste {Enter}
-; Return
+; Returnaaaaaaaaaaaa
 ;C:\Users\Administrator\Desktop\images find\agulha marker branco2.png
+*#c::Run Calc.exe
 
 #IfWinActive ahk_exe POWERPNT.EXE
   ^b::
@@ -36,11 +37,18 @@ mostrarMeuNome(nome) {
   return
 
   ;format painter
-  !LButton Up::
-    KeyWait, Alt
-    MouseClick, left
-    send, !05
-  return
+
+  ; !RButton Up::
+  ;   KeyWait, Alt
+  ;   MouseClick, right 
+  ;   send, ^+c
+  ; return
+
+  ; !LButton Up::
+  ;   KeyWait, Alt
+  ;   MouseClick, left
+  ;   send, ^+v
+  ; return
 
   Insert & f::
     send, ^h
@@ -54,9 +62,28 @@ mostrarMeuNome(nome) {
     send, {Tab}
   return
 
-  F11::
-    Send, !04
+  Insert & Home::
+    msgbox, , , Copiado!, 0.2
+    send, ^+c
   return
+
+  Home & Insert::
+    msgbox, , , Copiado!, 0.2
+    send, ^+c
+  return
+
+  Insert::send, ^+v
+
+  ; ~Insert::
+  ;   if !(A_TickCount < Insert) {
+  ;     KeyWait, Insert
+  ;     Insert:= A_TickCount + 150
+  ;     return
+  ;   }
+  ;   Send, ^+c
+  ; return
+
+  F11::+f5
 
   ^+v::
     Send, ^v
