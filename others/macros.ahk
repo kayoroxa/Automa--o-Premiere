@@ -18,7 +18,10 @@ mostrarMeuNome(nome) {
 ; Returnaaaaaaaaaaaa
 ;C:\Users\Administrator\Desktop\images find\agulha marker branco2.png
 *#c::Run Calc.exe
+*#t::Run "C:\Users\Administrator\AppData\Roaming\Telegram Desktop\Telegram.exe"
+*#w::Run "https://web.whatsapp.com/"
 
+RControl::Send, !{Tab}
 #IfWinActive ahk_exe POWERPNT.EXE
   ^b::
     Send, !07
@@ -62,14 +65,19 @@ mostrarMeuNome(nome) {
     send, {Tab}
   return
 
+  NumpadDiv::
+    send, {Esc}
+    send, {Esc}
+    send, ^{Tab}
+  return
+
   Insert & Home::
     msgbox, , , Copiado!, 0.2
     send, ^+c
-  return
-
-  Home & Insert::
-    msgbox, , , Copiado!, 0.2
-    send, ^+c
+    Sleep, 20
+    send, {Esc}
+    send, {Esc}
+    send, ^{Tab}
   return
 
   Insert::send, ^+v
