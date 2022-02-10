@@ -54,7 +54,6 @@ function splitSentenceByWord(sentence) {
   if (maiorLength <= 36) {
     return splittedByPunctuation
   }
-
   const words = sentence.split(' ')
   const numberLimit = 36
   const numberDivided = Math.floor(words.length / 2)
@@ -97,11 +96,10 @@ function intercalatedTime2Subtitle(srtObjects) {
   const srtUnq = srtObjects[0]
   const tempoPraCada1 = (srtUnq.endTime - srtUnq.startTime) / 2
 
-  const result = [
+  return [
     { ...srtObjects[0], endTime: srtUnq.startTime + tempoPraCada1 },
     { ...srtObjects[1], startTime: srtUnq.startTime + tempoPraCada1 },
   ]
-  return result
 }
 
 function doObjOfSentenceIntercalate(datasSrt) {
@@ -135,15 +133,15 @@ function splitTwoLinesSrt(srtObj) {
   return objOfSentenceIntercalated
 }
 
-function zerarStartTime(srtObj, startTimeMs = 0) {
+function zerarStartTime(srtObj) {
   const numberToSubtract = srtObj[0].startTime
   if (typeof numberToSubtract !== 'number')
     throw new Error('numberToSubtract is not a number')
   console.log({ numberToSubtract })
   return srtObj.map(v => ({
     ...v,
-    startTime: v.startTime - numberToSubtract + startTimeMs,
-    endTime: v.endTime - numberToSubtract + startTimeMs,
+    startTime: v.startTime - numberToSubtract,
+    endTime: v.endTime - numberToSubtract,
   }))
 }
 
@@ -152,7 +150,6 @@ const defaultOptions = {
   splitTwoLines: true,
   ms: true,
   startInZero: false,
-  startInSec: 0,
 }
 
 function main(srtFilePath, options = defaultOptions) {
@@ -164,14 +161,6 @@ function main(srtFilePath, options = defaultOptions) {
   if (options.sanitizer) srtObj = sanitizerSrtObj(srtObj)
   if (options.splitTwoLines) srtObj = splitTwoLinesSrt(srtObj)
   if (options.startInZero && options.ms) srtObj = zerarStartTime(srtObj)
-  if (options.startInSec)
-    srtObj = zerarStartTime(srtObj, options.startInSec * 1000)
-
-  const filePath = srtFilePath.replace('.srt', '_fixed.srt')
-  saveSrt(srtObj, filePath)
-  deleteFile(srtFilePath)
-  console.log('done')
-
   if (options.sec) {
     srtObj = srtObj.map(v => ({
       ...v,
